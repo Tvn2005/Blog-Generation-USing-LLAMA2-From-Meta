@@ -1,7 +1,6 @@
-In this project, an end-to-end LLM project using LLAMA-2 was implemented in order to create a web application for blog generation. The Llama-2 hugging face model weight was utilized during development and implementation. 
+In this project, an end-to-end LLM project using LLAMA-2 was implemented in order to create blog generation content via web application interface. The Llama-2 hugging face model weight was utilized during development and implementation. 
 A family of pre-trained and fine-tuned LLMS, with scales ranging from 7B to 70B parameters (7B, 13B, and 70B), is included in the Llama-2 release. 
-The local environment in which this project was implemented had four cores and eight logical processors. 
-It was simpler to use the 7B parametered llama-2 model. 
+However,the local environment in which this project was implemented had four cores and eight logical processors. It was simpler to use the 7B parametered llama-2 model. 
 
 **Project execution steps:**
 1. Get the most recent model weights from the community of hugging face. (Website: huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
